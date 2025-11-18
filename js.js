@@ -17,7 +17,7 @@ btn.addEventListener("click", () => {
 
             // 🔽 Mở link tải thật tại đây
             setTimeout(() => {
-                window.location.href = "https://yourserver.com/file-download.exe";
+                window.location.href = "https://drive.google.com/file/d/1DYbiiMGPD-HOLIbg_7jH1KrhC14quVEr/view?usp=sharing";
             }, 1000);
 
         } else {
